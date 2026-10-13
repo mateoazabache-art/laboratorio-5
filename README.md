@@ -26,7 +26,7 @@ flowchart LR
 ```
 
 ## Capturas
-![Vista principal](/Laboratorio-5/Captura%20de%20pantalla%202026-10-13%20a%20la(s)%2012.34.38 a.m..png)
+![Vista principal](/Captura%20de%20pantalla%202026-10-13%20a%20la(s)%2012.34.38 a.m..png)
 
 ## Contribuidores
 - [@tu-usuario](https://github.com/mateoazabache-art) — Desarrollo y documentación
